@@ -12,19 +12,25 @@ header{
 
 }
 .logo{
-    height: 5%;
-    position: left;
+    position: absolute;
+    width: 200px;
+    padding-left: 10px;
 }
 .Nom{
-    position: right;
+    padding-top: 130px;
+    padding-left: 80px;
+    position: absolute;
     margin-left: 30%;
-    margin-bottom: 100%;
+    margin-bottom: 90;
     margin-right: 0;
     margin-top: 0;
+
 }
 .summary{
     margin-top: 20%;
 }
 .title{
-    position: middle;
+    padding-left: 580px;
+    position: relative;
+    font-size: 1.17em;
 }
