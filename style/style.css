@@ -2,4 +2,5 @@ header{
     background-color: darkcyan;
     background-size: 13%;
     position: fixed;
+    opacity: 50%;
 }
